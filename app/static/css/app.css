@@ -1,3 +1,13 @@
 body {
     padding-top: 5rem;
 }
+
+
+div{
+    line-height: 30px;
+}
+
+.flashes{
+    color: red;
+    font-size: 24px;
+}
